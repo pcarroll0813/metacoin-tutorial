@@ -1,0 +1,22 @@
+{
+  "name": "metacoin-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcarroll0813/metacoin-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcarroll0813/metacoin-tutorial/issues"
+  },
+  "homepage": "https://github.com/pcarroll0813/metacoin-tutorial#readme",
+  "dependencies": {
+    "truffle": "^4.1.3"
+  }
+}
